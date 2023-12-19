@@ -3,3 +3,5 @@ git add .
 git status
 git commit -m "Daily update"
 git push origin main
+
+pause
