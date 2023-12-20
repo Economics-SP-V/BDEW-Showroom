@@ -22,3 +22,6 @@ try:
     print("Git push completed successfully.")
 except subprocess.CalledProcessError as e:
     print(f'An error occurred: {e}')
+    
+    
+#2023-12-20 23:00:00,"48,88"
