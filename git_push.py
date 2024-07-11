@@ -9,7 +9,7 @@ import subprocess
 import os
 
 # Set the path to your repository
-repo_path = r'C:\Users\Public\_python\BDEW-Showroom'
+repo_path = r'C:\DEV\BDEW-Showroom'
 
 # Change to the repository directory
 os.chdir(repo_path)
